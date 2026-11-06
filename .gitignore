@@ -1,0 +1,17 @@
+# Godot cache / editor state (regenerated on open; contains local paths)
+.godot/
+*.tmp
+export_presets.cfg
+
+# Personal settings - never commit these. The game keeps them in
+# %APPDATA%\Godot\app_userdata\Dungeon NPCs\, outside this folder,
+# but ignore them here too in case a copy is ever dropped in.
+gmail.cfg
+calendar.cfg
+window.cfg
+*.ics
+
+# OS clutter
+Thumbs.db
+Desktop.ini
+.DS_Store

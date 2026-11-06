@@ -1,0 +1,20 @@
+; Engine configuration file.
+; Open this folder in Godot 4.3 or newer.
+
+config_version=5
+
+[application]
+
+config/name="Dungeon NPCs"
+config/description="A small dungeon built from Kenney's Mini Dungeon kit, where human and orc NPCs wander, chat, trade, brawl, sit and loot chests."
+run/main_scene="res://main.tscn"
+config/features=PackedStringArray("4.3", "Forward Plus")
+
+[display]
+
+window/size/viewport_width=1280
+window/size/viewport_height=720
+
+[rendering]
+
+anti_aliasing/quality/msaa_3d=2
